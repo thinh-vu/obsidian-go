@@ -1,0 +1,10 @@
+{
+  "amazonRegion": "global",
+  "highlightsFolder": "Books",
+  "lastSyncMode": "amazon",
+  "isLoggedIn": true,
+  "syncOnBoot": true,
+  "downloadBookMetadata": true,
+  "fileNameTemplate": "{{longTitle}} - {{author}}",
+  "lastSyncDate": "2022-10-27T01:09:02.176Z"
+}

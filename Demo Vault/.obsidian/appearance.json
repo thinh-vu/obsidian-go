@@ -1,0 +1,10 @@
+{
+  "baseFontSize": 16,
+  "cssTheme": "",
+  "translucency": false,
+  "enabledCssSnippets": [
+    "obsidian_theme_config"
+  ],
+  "theme": "obsidian",
+  "accentColor": "#e4445c"
+}
