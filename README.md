@@ -1,10 +1,12 @@
 # obsidian-pre-config
 
-****👉 ENGLISH available [here](../README-En.md)****
+****👉 ENGLISH available [here](https://github.com/thinh-vu/obsidian-pre-config/blob/main/README-En.md)****
 
 Repo này cung cấp các cài đặt cho phần mềm ghi chú/quản lý kiến thức cá nhân Obsidian. 
 
 Mục đích tôi chia sẻ repo này rất đơn giản, đó là giúp các bạn mới làm quen với Obsidian tiết kiệm thời gian và dễ dàng để bắt đầu bởi Obsidian tuy thú vị nhưng "learning curve" không hề dễ chịu chút nào.
+
+Vui lòng tham khảo bài viết [Hướng dẫn sử dụng Obsidian toàn tập](https://thinhvu.com/2023/01/29/huong-dan-su-dung-obsidian-toan-tap/) trên Thinh Vu Blog để biết thêm chi tiết.
 
 # Các cài đặt đã được thiết lập
 
