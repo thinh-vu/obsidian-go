@@ -1,6 +1,10 @@
 # obsidian-pre-config
 
-This repository provides a set of pre-configured settings to help you quickly set up and start using Obsidian
+****👉 ENGLISH available [here](../README-En.md)****
+
+Repo này cung cấp các cài đặt cho phần mềm ghi chú/quản lý kiến thức cá nhân Obsidian. 
+
+Mục đích tôi chia sẻ repo này rất đơn giản, đó là giúp các bạn mới làm quen với Obsidian tiết kiệm thời gian và dễ dàng để bắt đầu bởi Obsidian tuy thú vị nhưng "learning curve" không hề dễ chịu chút nào.
 
 # Các cài đặt đã được thiết lập
 
