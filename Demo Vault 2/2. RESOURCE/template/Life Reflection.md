@@ -1,13 +1,13 @@
 🗓  {{date:YYYY-MM-DD}} {{time:HH:mm}}
 # WHAT
-1. Ment1. Mental state
+1. Mental state
 2. Physical state
 3. Relationship
 4. Finance
 5. Career
 6. Knowledge
 7. Lifestyle
-8. Public impactal state
+8. Public Impact
 2. Physical state
 
 # HOW

@@ -1,6 +1,6 @@
 # obsidian-pre-config
 
-****👉 ENGLISH available [here](https://github.com/thinh-vu/obsidian-pre-config/blob/main/README-En.md)****
+****🌐 ENGLISH available [here](https://github.com/thinh-vu/obsidian-pre-config/blob/main/README-En.md)****
 
 Repo này cung cấp các cài đặt cho phần mềm ghi chú/quản lý kiến thức cá nhân Obsidian. 
 
@@ -15,31 +15,20 @@ Tất cả các phần cài đặt đã được chỉnh sửa cho phù hợp, n
 # Các plugin được cài đặt sẵn trong thư mục
 
 - Community plugin:
-  
-  - Admontion | Tắt
-  
   - Advanced Mobile Toolbar | Bật
-  
   - Advanced Tables | Bật
-  
   - Calendar | Bật
-  
   - Dataview | Bật
-  
   - Emoji Shortcodes | Bật
-  
   - Kindle Highlights | Tắt
-  
   - Mindmap | Bật
-  
   - Natural Language Dates | Bật
-  
   - Note Refactor | Bật
-  
   - Pandoc Plugin | Bật
-  
   - Periodic Notes | Bật
-
+  - Obsidian TODO | Text-based GTD | Bật
+  - Reminder | Bật
+  - Icon folder | Bật
 # Template ghi chú
 
 Tôi chia sẻ các template đang sử dụng hiện tại trong Demo Vault này bao gồm:
@@ -55,6 +44,8 @@ Tôi chia sẻ các template đang sử dụng hiện tại trong Demo Vault nà
 - Book highlights
 
 # Cách sử dụng
+
+>[!hint] Xem chi tiết file Hướng dẫn sử dụng trong mỗi Demo Vault (nếu có)
 
 1. Tải file zip về máy tính
 
