@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a04bf2c85de13e63",
+        "id": "57bdf5bb6ed758ec",
         "type": "tabs",
         "children": [
           {
-            "id": "6a1bbae9eb52b8f1",
+            "id": "6273152ee1d1df08",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -101,9 +96,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           },
           {
@@ -123,7 +116,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +132,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +165,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "README.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -223,8 +213,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "91ea0f5f7cc6bb54",
+  "active": "6273152ee1d1df08",
   "lastOpenFiles": [
+    "Untitled.md",
+    "src",
+    "README.md",
     "Demo Vault 2/2. RESOURCE/icon/solid/z.svg",
     "Demo Vault 2/2. RESOURCE/icon/solid/yin-yang.svg",
     "Demo Vault 2/2. RESOURCE/icon/solid/yen-sign.svg",
@@ -235,13 +228,11 @@
     "Demo Vault 2/2. RESOURCE/icon/solid/x-ray.svg",
     "Demo Vault 2/2. RESOURCE/icon/solid/wrench.svg",
     "Demo Vault 2/2. RESOURCE/icon/solid/worm.svg",
-    "Demo Vault 2/2. RESOURCE/icon/solid/won-sign.svg",
     "Demo Vault 2/2. RESOURCE/icon/solid",
     "Demo Vault 2/2. RESOURCE/icon/regular",
     "Demo Vault 2/2. RESOURCE/icon/brands",
     "Demo Vault 2/2. RESOURCE/icon",
     "Demo Vault 2/Hướng dẫn sử dụng.md",
-    "Untitled.md",
     "Demo Vault 2/2. RESOURCE/template/Weekly Journal.md",
     "Demo Vault 2/2. RESOURCE/template/People profile.md",
     "Demo Vault 2/2. RESOURCE/template/New Note.md",
@@ -249,7 +240,7 @@
     "Demo Vault 2/2. RESOURCE/template/Life Reflection.md",
     "Demo Vault 2/2. RESOURCE/template/Index Note.md",
     "Demo Vault 2/2. RESOURCE/template/Daily Journal.md",
-    "Demo Vault/src/Template/Daily Journal.md",
+    "Demo Vault 1/src/Template/Daily Journal.md",
     "Demo Vault 2/2. RESOURCE/index/Social Skills.md",
     "Demo Vault 2/2. RESOURCE/index/Tutorial.md",
     "Demo Vault 2/2. RESOURCE/index/Story.md",
@@ -264,13 +255,11 @@
     "Demo Vault 2/2. RESOURCE/index/Physical Health.md",
     "Demo Vault 2/2. RESOURCE/index/Parenting.md",
     "Demo Vault 2/2. RESOURCE/index/Mindset.md",
-    "Demo Vault 2/2. RESOURCE/index/Mindfulness.md",
     "Demo Vault 2/2. RESOURCE/index",
     "Demo Vault 2/RESOURCE/Index",
     "Demo Vault 2/2. RESOURCE/attachments",
     "Demo Vault 2/2. RESOURCE/template",
     "Demo Vault 2/RESOURCE/New folder",
-    "Demo Vault 2/RESOURCE/src",
     "Projects mapping.canvas"
   ]
 }
