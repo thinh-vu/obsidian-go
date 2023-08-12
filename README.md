@@ -1,5 +1,4 @@
-# obsidian-pre-config
-
+# obsidian Go
 ****🌐 ENGLISH available [here](https://github.com/thinh-vu/obsidian-pre-config/blob/main/README-En.md)****
 
 Repo này cung cấp các cài đặt cho phần mềm ghi chú/quản lý kiến thức cá nhân Obsidian. 
