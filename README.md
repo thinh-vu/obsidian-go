@@ -28,6 +28,7 @@ Tất cả các phần cài đặt đã được chỉnh sửa cho phù hợp, n
   - Obsidian TODO | Text-based GTD | Bật
   - Reminder | Bật
   - Icon folder | Bật
+  - Flexibal Pomodoro for Obsidian | Bật
 # Template ghi chú
 
 Tôi chia sẻ các template đang sử dụng hiện tại trong Demo Vault này bao gồm:
