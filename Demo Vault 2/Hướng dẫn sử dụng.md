@@ -1,5 +1,11 @@
 >[!hint] Đây là cấu hình thư mục Obsidian mới nhất mà tôi đang sử dụng, cập nhật tháng 8/2023.
 
+# Use case
+- Viết Journal hàng ngày/tuần/tháng để suy tưởng (reflection).
+- Quản lý mục tiêu với các việc quan trọng cần thực hiện mỗi ngày với GTD và Reminder
+- Quản lý dự án với Kanban board
+- Trực quan hóa ghi chú với Mindmap
+
 # Cấu trúc thư mục
 Tên thư mục | Chi tiết
 --- | ---

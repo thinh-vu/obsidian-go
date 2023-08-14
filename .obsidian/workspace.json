@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "57bdf5bb6ed758ec",
+        "id": "7ec66130e0d77a0f",
         "type": "tabs",
         "children": [
           {
-            "id": "6273152ee1d1df08",
+            "id": "4716739a9f11942d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Demo Vault 2/Hướng dẫn sử dụng.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -96,7 +101,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Demo Vault 2/Hướng dẫn sử dụng.md"
+              }
             }
           },
           {
@@ -116,6 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Demo Vault 2/Hướng dẫn sử dụng.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,6 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Demo Vault 2/Hướng dẫn sử dụng.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,6 +161,14 @@
               "type": "reminder-list",
               "state": {}
             }
+          },
+          {
+            "id": "125086bb08287c42",
+            "type": "leaf",
+            "state": {
+              "type": "online.larslockefeer.obsidian-plugin-todo",
+              "state": {}
+            }
           }
         ]
       },
@@ -165,6 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Demo Vault 2/Hướng dẫn sử dụng.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -197,8 +215,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 341.5,
-    "collapsed": true
+    "width": 341.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -213,8 +230,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "6273152ee1d1df08",
+  "active": "91ea0f5f7cc6bb54",
   "lastOpenFiles": [
+    "Demo Vault 2/2. RESOURCE/template/Weekly Journal.md",
+    "Demo Vault 2/2. RESOURCE/template/People profile.md",
+    "Demo Vault 2/2. RESOURCE/template/New Note.md",
+    "Demo Vault 2/2. RESOURCE/template/Monthly Journal.md",
+    "Demo Vault 2/2. RESOURCE/template/Life Reflection.md",
+    "Demo Vault 2/2. RESOURCE/template/Index Note.md",
+    "Demo Vault 2/2. RESOURCE/template/Daily Journal.md",
+    "Demo Vault 2/2. RESOURCE/template/Book Highlights.md",
+    "Demo Vault 2/2. RESOURCE/index/Brand building.md",
     "Untitled.md",
     "src",
     "README.md",
@@ -233,13 +259,6 @@
     "Demo Vault 2/2. RESOURCE/icon/brands",
     "Demo Vault 2/2. RESOURCE/icon",
     "Demo Vault 2/Hướng dẫn sử dụng.md",
-    "Demo Vault 2/2. RESOURCE/template/Weekly Journal.md",
-    "Demo Vault 2/2. RESOURCE/template/People profile.md",
-    "Demo Vault 2/2. RESOURCE/template/New Note.md",
-    "Demo Vault 2/2. RESOURCE/template/Monthly Journal.md",
-    "Demo Vault 2/2. RESOURCE/template/Life Reflection.md",
-    "Demo Vault 2/2. RESOURCE/template/Index Note.md",
-    "Demo Vault 2/2. RESOURCE/template/Daily Journal.md",
     "Demo Vault 1/src/Template/Daily Journal.md",
     "Demo Vault 2/2. RESOURCE/index/Social Skills.md",
     "Demo Vault 2/2. RESOURCE/index/Tutorial.md",
@@ -254,7 +273,6 @@
     "Demo Vault 2/2. RESOURCE/index/Productivity.md",
     "Demo Vault 2/2. RESOURCE/index/Physical Health.md",
     "Demo Vault 2/2. RESOURCE/index/Parenting.md",
-    "Demo Vault 2/2. RESOURCE/index/Mindset.md",
     "Demo Vault 2/2. RESOURCE/index",
     "Demo Vault 2/RESOURCE/Index",
     "Demo Vault 2/2. RESOURCE/attachments",

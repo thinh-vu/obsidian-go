@@ -4,20 +4,20 @@
   "hasMigratedWeeklyNoteSettings": false,
   "daily": {
     "format": "YYYY-MM-DD",
-    "folder": "Daily Notes",
+    "folder": "Demo Vault 2/0. JOURNAL",
     "template": "src/Template/Daily Journal",
     "enabled": true
   },
   "weekly": {
     "format": "gggg-[W]ww",
     "template": "src/Template/Weekly Journal.md",
-    "folder": "Reflection",
+    "folder": "Demo Vault 2/0. JOURNAL",
     "enabled": true
   },
   "monthly": {
     "format": "YYYY-MM",
     "template": "src/Template/Monthly Journal.md",
-    "folder": "Reflection",
+    "folder": "Demo Vault 2/0. JOURNAL",
     "enabled": true
   },
   "quarterly": {
