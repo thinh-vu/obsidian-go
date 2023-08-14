@@ -5,7 +5,13 @@
     "fontSize": 16,
     "emojiStyle": "none",
     "iconColor": null,
-    "recentlyUsedIcons": [],
+    "recentlyUsedIcons": [
+      "RiBook3Fill",
+      "RiQuillPenFill",
+      "IbTarget",
+      "FasTruck",
+      "FasBoxArchive"
+    ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
     "extraMargin": {
@@ -15,5 +21,12 @@
       "left": 0
     },
     "iconInTabsEnabled": false
-  }
+  },
+  "Demo Vault 2/0. MAP.md": "FasMap",
+  "Demo Vault 2/4. VISUAL NOTES": "RiFlowChart",
+  "Demo Vault 2/3. ARCHIEVED": "FasBoxArchive",
+  "Demo Vault 2/2. RESOURCE": "FasTruck",
+  "Demo Vault 2/1. PROJECT": "IbTarget",
+  "Demo Vault 2/0. JOURNAL": "RiQuillPenFill",
+  "Demo Vault 2/Hướng dẫn sử dụng.md": "RiBook3Fill"
 }

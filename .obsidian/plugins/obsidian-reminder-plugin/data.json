@@ -1,6 +1,14 @@
 {
   "scanned": true,
-  "reminders": {},
+  "reminders": {
+    "Demo Vault 2/0. JOURNAL/2023-08-14.md": [
+      {
+        "title": "Publish youtube video",
+        "time": "2023-08-14 20:15",
+        "rowNumber": 10
+      }
+    ]
+  },
   "debug": false,
   "settings": {
     "reminderTime": "09:00",

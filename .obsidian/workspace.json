@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7ec66130e0d77a0f",
+        "id": "fded885559ab1434",
         "type": "tabs",
         "children": [
           {
-            "id": "4716739a9f11942d",
+            "id": "c20449c7e9b1d6fc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Demo Vault 2/Hướng dẫn sử dụng.md",
+                "file": "Demo Vault 2/0. JOURNAL/2023-08-14.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Demo Vault 2/Hướng dẫn sử dụng.md"
+                "file": "Demo Vault 2/0. JOURNAL/2023-08-14.md"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Demo Vault 2/Hướng dẫn sử dụng.md",
+                "file": "Demo Vault 2/0. JOURNAL/2023-08-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Demo Vault 2/Hướng dẫn sử dụng.md",
+                "file": "Demo Vault 2/0. JOURNAL/2023-08-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,22 +151,6 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
-            "id": "eab1fec0e741d7e2",
-            "type": "leaf",
-            "state": {
-              "type": "reminder-list",
-              "state": {}
-            }
-          },
-          {
-            "id": "125086bb08287c42",
-            "type": "leaf",
-            "state": {
-              "type": "online.larslockefeer.obsidian-plugin-todo",
               "state": {}
             }
           }
@@ -182,7 +166,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Demo Vault 2/Hướng dẫn sử dụng.md",
+                "file": "Demo Vault 2/0. JOURNAL/2023-08-14.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -205,17 +189,39 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.5611383565196475,
+                  "scale": 0.7867063791267348,
                   "close": true
                 }
               }
             }
           }
         ]
+      },
+      {
+        "id": "bbad2d4043751d61",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "125086bb08287c42",
+            "type": "leaf",
+            "state": {
+              "type": "online.larslockefeer.obsidian-plugin-todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "eab1fec0e741d7e2",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 341.5
+    "width": 431.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -230,8 +236,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "91ea0f5f7cc6bb54",
+  "active": "125086bb08287c42",
   "lastOpenFiles": [
+    "Demo Vault 2/0. JOURNAL/2023-08-14.md",
+    "Demo Vault 2/Obsidian go.md",
+    "Demo Vault 2/Hướng dẫn sử dụng.md",
+    "Demo Vault 2/0. MAP.md",
     "Demo Vault 2/2. RESOURCE/template/Weekly Journal.md",
     "Demo Vault 2/2. RESOURCE/template/People profile.md",
     "Demo Vault 2/2. RESOURCE/template/New Note.md",
@@ -240,10 +250,16 @@
     "Demo Vault 2/2. RESOURCE/template/Index Note.md",
     "Demo Vault 2/2. RESOURCE/template/Daily Journal.md",
     "Demo Vault 2/2. RESOURCE/template/Book Highlights.md",
-    "Demo Vault 2/2. RESOURCE/index/Brand building.md",
-    "Untitled.md",
-    "src",
+    "Demo Vault 2/2. RESOURCE/index/Productivity.md",
+    "Demo Vault 2/2. RESOURCE/index/Career.md",
+    "Demo Vault 2/2. RESOURCE/index/Financial Security.md",
+    "Demo Vault 2/2. RESOURCE/index/Community.md",
+    "Demo Vault 2/2. RESOURCE/index/Communication.md",
     "README.md",
+    "README-En.md",
+    "changes_log.md",
+    "Demo Vault 2/2. RESOURCE/index/Brand building.md",
+    "src",
     "Demo Vault 2/2. RESOURCE/icon/solid/z.svg",
     "Demo Vault 2/2. RESOURCE/icon/solid/yin-yang.svg",
     "Demo Vault 2/2. RESOURCE/icon/solid/yen-sign.svg",
@@ -258,21 +274,11 @@
     "Demo Vault 2/2. RESOURCE/icon/regular",
     "Demo Vault 2/2. RESOURCE/icon/brands",
     "Demo Vault 2/2. RESOURCE/icon",
-    "Demo Vault 2/Hướng dẫn sử dụng.md",
     "Demo Vault 1/src/Template/Daily Journal.md",
     "Demo Vault 2/2. RESOURCE/index/Social Skills.md",
     "Demo Vault 2/2. RESOURCE/index/Tutorial.md",
     "Demo Vault 2/2. RESOURCE/index/Story.md",
     "Demo Vault 2/2. RESOURCE/index/Startup.md",
-    "Demo Vault 2/2. RESOURCE/index/Spirituality.md",
-    "Demo Vault 2/2. RESOURCE/index/Skillset.md",
-    "Demo Vault 2/2. RESOURCE/index/Saving.md",
-    "Demo Vault 2/2. RESOURCE/index/SaaS.md",
-    "Demo Vault 2/2. RESOURCE/index/Relationship.md",
-    "Demo Vault 2/2. RESOURCE/index/Read.md",
-    "Demo Vault 2/2. RESOURCE/index/Productivity.md",
-    "Demo Vault 2/2. RESOURCE/index/Physical Health.md",
-    "Demo Vault 2/2. RESOURCE/index/Parenting.md",
     "Demo Vault 2/2. RESOURCE/index",
     "Demo Vault 2/RESOURCE/Index",
     "Demo Vault 2/2. RESOURCE/attachments",

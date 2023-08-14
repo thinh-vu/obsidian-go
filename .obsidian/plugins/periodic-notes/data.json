@@ -5,12 +5,12 @@
   "daily": {
     "format": "YYYY-MM-DD",
     "folder": "Demo Vault 2/0. JOURNAL",
-    "template": "src/Template/Daily Journal",
+    "template": "Demo Vault 2/2. RESOURCE/template/Daily Journal.md",
     "enabled": true
   },
   "weekly": {
     "format": "gggg-[W]ww",
-    "template": "src/Template/Weekly Journal.md",
+    "template": "Demo Vault 2/2. RESOURCE/template/Weekly Journal.md",
     "folder": "Demo Vault 2/0. JOURNAL",
     "enabled": true
   },
