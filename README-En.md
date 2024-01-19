@@ -1,3 +1,4 @@
+> [!warning] This file is no longer being actively maintained.
 # Obsidian pre-config
 
 This repository provides pre-configured settings to quickly set up and start using Obsidian, a note-taking app.

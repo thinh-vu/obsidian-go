@@ -11,8 +11,13 @@
             "id": "c20449c7e9b1d6fc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "changes_log.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -96,7 +101,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "changes_log.md"
+              }
             }
           },
           {
@@ -116,6 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "changes_log.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,6 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "changes_log.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,6 +166,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "changes_log.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -222,18 +232,20 @@
       "command-palette:Open command palette": false,
       "random-note:Open random note": false,
       "audio-recorder:Start/stop recording": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "periodic-notes:Open today": false
     }
   },
   "active": "c20449c7e9b1d6fc",
   "lastOpenFiles": [
-    "Demo Vault 2/4. VISUAL NOTES/Untitled.md",
-    "Demo Vault 2/3. ARCHIEVED/Untitled.md",
-    "Demo Vault 2/0. JOURNAL/2023-08-14.md",
+    "README-En.md",
+    "README.md",
+    "changes_log.md",
     "Demo Vault 2/Obsidian go.md",
     "Demo Vault 2/Hướng dẫn sử dụng.md",
     "Demo Vault 2/0. MAP.md",
+    "Demo Vault 2/4. VISUAL NOTES/Untitled.md",
+    "Demo Vault 2/3. ARCHIEVED/Untitled.md",
+    "Demo Vault 2/0. JOURNAL/2023-08-14.md",
     "Demo Vault 2/2. RESOURCE/template/Weekly Journal.md",
     "Demo Vault 2/2. RESOURCE/template/People profile.md",
     "Demo Vault 2/2. RESOURCE/template/New Note.md",
@@ -247,9 +259,6 @@
     "Demo Vault 2/2. RESOURCE/index/Financial Security.md",
     "Demo Vault 2/2. RESOURCE/index/Community.md",
     "Demo Vault 2/2. RESOURCE/index/Communication.md",
-    "README.md",
-    "README-En.md",
-    "changes_log.md",
     "Demo Vault 2/2. RESOURCE/index/Brand building.md",
     "src",
     "Demo Vault 2/2. RESOURCE/icon/solid/z.svg",

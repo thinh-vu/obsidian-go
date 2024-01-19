@@ -1,4 +1,10 @@
-The most recent changes are listing as below:
+Lịch sử thay đổi gói Obsidian Go được mô tả dưới đây
+
+# 2024-01-19
+
+>[!tip] Cập nhật plugin và bổ sung tùy chỉnh theo Vault mới nhất đang sử dụng
+- Cập nhật các community plugins, tắt và xóa bớt plugin không cần thiết
+- Cập nhật cài đặt phím tắt mới nhất
 
 # 2023-08-10
 >[!tip]

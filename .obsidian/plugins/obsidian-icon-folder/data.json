@@ -1,16 +1,16 @@
 {
   "settings": {
-    "migrated": true,
+    "migrated": 4,
     "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
     "fontSize": 16,
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "RiBook3Fill",
-      "RiQuillPenFill",
-      "IbTarget",
-      "FasTruck",
-      "FasBoxArchive"
+      "FasBroom",
+      "FasBook",
+      "LiMap",
+      "LiBook",
+      "RiBook3Fill"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -20,13 +20,17 @@
       "bottom": 0,
       "left": 0
     },
-    "iconInTabsEnabled": false
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInFrontmatterEnabled": false,
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconIdentifier": ":"
   },
-  "Demo Vault 2/0. MAP.md": "FasMap",
-  "Demo Vault 2/4. VISUAL NOTES": "RiFlowChart",
+  "Demo Vault 2/4. VISUAL NOTES": "FasBroom",
   "Demo Vault 2/3. ARCHIEVED": "FasBoxArchive",
   "Demo Vault 2/2. RESOURCE": "FasTruck",
   "Demo Vault 2/1. PROJECT": "IbTarget",
   "Demo Vault 2/0. JOURNAL": "RiQuillPenFill",
-  "Demo Vault 2/Hướng dẫn sử dụng.md": "RiBook3Fill"
+  "Demo Vault 2/Hướng dẫn sử dụng.md": "FasBook"
 }
